@@ -1,0 +1,3 @@
+# Python package dependencies
+
+pygame==2.6.1
