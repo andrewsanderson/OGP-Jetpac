@@ -1,6 +1,8 @@
 {
-    "python.defaultInterpreterPath": "python",
-    "python.analysis.extraPaths": [],
-    "python.analysis.typeCheckingMode": "basic"
+  "python.defaultInterpreterPath": "python",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  }
 }
-

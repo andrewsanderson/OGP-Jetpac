@@ -15,7 +15,7 @@ def main():
     state = State()
     
     # Initialize screens
-    menu = Menu(screen)
+    menu = Menu(screen, state)
     
     clock = pygame.time.Clock()
     running = True
